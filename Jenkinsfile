@@ -9,7 +9,7 @@ pipeline {
         stage('ExecutionScript') {
             steps {
 				sh '''
-					hola.sh
+					./hola.sh
 				'''
 
             }
