@@ -3,3 +3,4 @@ Architect
 Docker
 AWS
 Microservicios
+DDD/Hexagonal/Onion/Axon
